@@ -19,4 +19,6 @@ If using it for academic publications, please cite work 3D Spatial Gaming Intera
 
 # [Youtube Playlist](https://www.youtube.com/playlist?list=PLG3lylzOg8Fj7BZp57IrP-CCdzeRuX5sl)
 
+![Poster](https://i1.wp.com/seniorproject.cis.fiu.edu/wp-content/uploads/sites/7/2018/04/Armando-Carrasquillo-poster.jpg?ssl=1)
+
 
