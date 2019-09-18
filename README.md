@@ -12,7 +12,7 @@ Supervised and Leadership by Francisco R. Ortega
 
 # [Video Explanation of my User Story](https://www.youtube.com/watch?v=ubjxDouPQpI&list=PLG3lylzOg8Fj7BZp57IrP-CCdzeRuX5sl&index=7&t=0s)
 
-# [Link to Project](https://github.com/NuiLab/VRForEducation)
+# [Link to the full Project](https://github.com/NuiLab/VRForEducation)
 
 # License 
 
